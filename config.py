@@ -1,7 +1,7 @@
 # ==========================================================
 # LABORATOIRE SAINT-FLAVIEN - DIVISION RECHERCHE QUANTIQUE
 # PROJET : BLACKSWAN - MODULE DE CONFINEMENT DU RÉACTEUR
-# AUTEUR : Dr. Marc Tremblay (Doctremb418)
+# AUTEUR : Dr. Achkeurh (DrAckheurh418)
 # ==========================================================
 
 REACTOR_ID = "SF-REACT-1989-DELTA"
